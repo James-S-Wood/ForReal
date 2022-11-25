@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
+        System.out.println("Let's Play with some Java!");
 
             int a = 5;
             int b = 10;
@@ -15,6 +15,7 @@ public class Main {
             } else {
                 System.out.println("The value is not 50");
             }
+
 
         System.out.println(newValue);
         System.out.println("The Value is " + newValue);
